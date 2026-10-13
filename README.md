@@ -1,4 +1,5 @@
 # signalrPractice
+[![CI](https://github.com/sajidkamaljoy/signalrPractice/actions/workflows/ci.yml/badge.svg)](https://github.com/sajidkamaljoy/signalrPractice/actions/workflows/ci.yml)
 
 A real-time chat built to practice ASP.NET Core SignalR, with a web client and a desktop client talking to the same hub.
 
